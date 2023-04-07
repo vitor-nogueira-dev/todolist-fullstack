@@ -68,9 +68,9 @@ MYSQL_PASSWORD=
 MYSQL_DB=
 `````
 3. Execute o script acima para criar a tabela tasks
+   
 ### Contribuições
-```
-💡Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar um bug, por favor, abra uma issue ou envie um pull request.
-`````
+> 💡Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar um bug, por favor, abra uma issue ou envie um pull request.
+
 
 
