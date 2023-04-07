@@ -3,6 +3,7 @@
 ![Todo List](./project.png)
 
 #### Como executar o projeto
+> ⚠️ É necessário ter um banco de dados MySQL todolist, no final README contém infos adicionais com alguns dados sobre o db
 1. Clone este repositório
 ````
 git clone git@github.com:vitor-nogueira-dev/todolist-fullstack.git
