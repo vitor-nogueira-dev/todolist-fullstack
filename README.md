@@ -71,4 +71,6 @@ MYSQL_DB=
 ### Contribuições
 ```
 💡Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar um bug, por favor, abra uma issue ou envie um pull request.
+`````
+
 
