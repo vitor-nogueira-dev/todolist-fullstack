@@ -2,22 +2,6 @@
 
 ![Todo List](./project.png)
 
-#### Como executar o projeto
-> ⚠️ É necessário ter um banco de dados MySQL todolist - no final do README contém infos adicionais com alguns dados sobre o db
-1. Clone este repositório
-````
-git clone git@github.com:vitor-nogueira-dev/todolist-fullstack.git
-````
-2. Na pasta raiz do projeto, execute o seguinte comando para instalar as dependências:
-```
-npm install
-``` 
-3. Na pasta backend, execute o seguinte comando para iniciar o servidor:
-````
-npm start
-````
-4. Acesse o arquivo `index.html` da aplicação e execute o `Live Server`
-
 ---
 <details>
 <summary><span style="font-size: 1.5rem;"> 📝Funcionalidades</span></summary>
@@ -44,6 +28,25 @@ npm start
   - MySQL 
 </details>
 
+---
+
+#### Como executar o projeto
+> ⚠️ É necessário ter um banco de dados MySQL todolist - no final do README contém infos adicionais com alguns dados sobre o db
+1. Clone este repositório
+````
+git clone git@github.com:vitor-nogueira-dev/todolist-fullstack.git
+````
+2. Na pasta raiz do projeto, execute o seguinte comando para instalar as dependências:
+```
+npm install
+``` 
+3. Na pasta backend, execute o seguinte comando para iniciar o servidor:
+````
+npm start
+````
+4. Acesse o arquivo `index.html` da aplicação e execute o `Live Server`
+
+---
 ### Configuração do banco de dados
 1. Crie um banco de dados MySQL chamado todolist
 ````
