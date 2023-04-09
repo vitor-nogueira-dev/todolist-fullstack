@@ -17,7 +17,9 @@
   - HTML </br> 
   - CSS </br>
   - MySQL </br>
-  - Express
+  - Express </br>
+  - Node JS </br>
+  - JavaScript
 </details>
 
 ----
