@@ -4,6 +4,14 @@
 
 ---
 <details>
+<summary><span style="font-size: 1.5rem;"> 👨🏼‍💻 Proposta</span></summary>
+  - Criar um todo list Full-stack(Front-end/Back-end); </br>
+  - Criar um banco de dados MySQL para alimentar o front-end; </br>
+  - Criar um front-end para manipular o banco de dados; </br>
+</details>
+
+---
+<details>
 <summary><span style="font-size: 1.5rem;"> 📝Funcionalidades</span></summary>
   - Adicione uma nova tarefa; </br>
   - Edite uma tarefa existente; </br>
