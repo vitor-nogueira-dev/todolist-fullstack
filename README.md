@@ -86,4 +86,4 @@ MYSQL_DB=
 > 💡Contribuições são bem-vindas! Se você tiver alguma sugestão ou encontrar um bug, por favor, abra uma issue ou envie um pull request.
 
 
-
+<img width=100% src="./images/banner.gif"/>
